@@ -79,7 +79,7 @@ Passionate DevOps Engineer with experience in CI/CD, Cloud Infrastructure, Conta
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/ChSaitej123
-- LinkedIn: https://linkedin.com/in/Sai-Teja
+- LinkedIn: https://linkedin.com/in/
 - Email: chsaitej50@gmail.com
 
 ---
