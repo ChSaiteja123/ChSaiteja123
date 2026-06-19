@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Hi 👋, I'm Sai Teja
 
 ## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Engineer
