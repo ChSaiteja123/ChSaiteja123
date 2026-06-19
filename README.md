@@ -68,12 +68,6 @@ Passionate DevOps Engineer with experience in CI/CD, Cloud Infrastructure, Conta
 
 ---
 
-## 📜 Certifications
-
-- AWS Cloud Practitioner
-- DevOps & Cloud Training
-- Kubernetes Fundamentals
-
 ---
 
 ## 📊 GitHub Stats
