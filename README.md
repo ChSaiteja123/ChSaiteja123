@@ -42,9 +42,6 @@ Passionate DevOps Engineer with experience in CI/CD, Cloud Infrastructure, Conta
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 ---
-## 🚀 DevOps Stack
-
-AWS • Docker • Kubernetes • Jenkins • Terraform • Ansible • GitHub Actions • ArgoCD • Istio • Prometheus • Grafana • ELK • Kafka
 
 ## 📊 GitHub Statistics
 
