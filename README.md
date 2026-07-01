@@ -1,6 +1,7 @@
 
 # Hi 👋, I'm Sai Teja
 
+
 ## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Engineer
 
 Passionate DevOps Engineer with experience in CI/CD, Cloud Infrastructure, Containerization, Kubernetes, Infrastructure as Code, Monitoring, and DevSecOps.
@@ -41,6 +42,21 @@ Passionate DevOps Engineer with experience in CI/CD, Cloud Infrastructure, Conta
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
 
 ---
+## 🚀 DevOps Stack
+
+AWS • Docker • Kubernetes • Jenkins • Terraform • Ansible • GitHub Actions • ArgoCD • Istio • Prometheus • Grafana • ELK • Kafka
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true&theme=tokyonight&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ChSaiteja123&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiteja123&layout=compact&theme=tokyonight)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ChSaiteja123&theme=onedark&row=1)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ChSaiteja123&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 📂 Featured Projects
 
