@@ -86,7 +86,7 @@ Passionate DevOps Engineer with experience in CI/CD, Cloud Infrastructure, Conta
 - CI/CD Automation
 
 ---
-
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true&theme=radical)
 ---
 
 ## 📊 GitHub Stats
