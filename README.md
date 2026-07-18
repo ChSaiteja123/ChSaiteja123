@@ -51,15 +51,6 @@ Career Goal:
 
 ---
 
-## ✨ Features
-
-- Responsive one-page portfolio
-- Modern cyberpunk-inspired UI
-- Animated sections with Framer Motion
-- Skills, Projects, Experience & Education
-- Contact form
-- Downloadable Resume
-
 # 🚀 DevOps Tech Stack
 
 <p align="center">
