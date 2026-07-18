@@ -53,13 +53,7 @@ Career Goal:
 </details>
 
 ---
-# 🚀 DevOps Portfolio
-
-A modern and animated DevOps portfolio website built with **React, Vite, Tailwind CSS, and Framer Motion**. It highlights Cloud, Kubernetes, CI/CD, DevSecOps, Infrastructure as Code, and Automation.
-
-## 🌐 Live Demo
-
-👉 **Portfolio:** https://github.com/ChSaiteja123/Portfolio.git
+## 👉 **Portfolio:** https://github.com/ChSaiteja123/Portfolio.git
 
 ---
 
