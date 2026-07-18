@@ -1,19 +1,4 @@
-<picture>
-  <!-- Dark Mode -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <!-- Light Mode -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true&theme=default&hide_border=true" />
-
-  <!-- Fallback -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true"
-     />
-</picture>
 
 <div align="center">
 
