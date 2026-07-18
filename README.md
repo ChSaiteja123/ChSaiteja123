@@ -157,15 +157,22 @@ Career Goal:
 
 ---
 
-# 📊 Languages
+## 💻 Programming Languages
 
 <p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiteja123&layout=compact&theme=tokyonight"/>
-
+  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,javascript,html,css" />
 </p>
 
----
+| Language | Experience | Usage |
+|----------|-----------|-------|
+| 🐍 Python | ⭐⭐⭐⭐☆ | Automation, Scripting |
+| 🐚 Bash | ⭐⭐⭐⭐☆ | Linux & DevOps |
+| ☕ Java | ⭐⭐⭐☆☆ | Core Programming |
+| 🌐 JavaScript | ⭐⭐⭐☆☆ | Web Development |
+| 🎨 HTML5 | ⭐⭐⭐⭐☆ | Frontend |
+| 🎨 CSS3 | ⭐⭐⭐☆☆ | UI Styling |
+| 🔷 C | ⭐⭐⭐☆☆ | Programming Fundamentals |
+| ⚡ C++ | ⭐⭐⭐☆☆ | Data Structures & Algorithms |
 
 # 📈 Activity Graph
 
