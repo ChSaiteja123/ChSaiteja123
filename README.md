@@ -160,7 +160,7 @@ Career Goal:
 ## 💻 Programming & Scripting Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,java,linux,sql,javascript,html,css,powershell" />
+  <img src="https://skillicons.dev/icons?i=python,bash,java,linux,aws,javascript,html,css,powershell" />
 </p>
 
 | Category | Languages / Technologies |
