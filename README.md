@@ -157,22 +157,26 @@ Career Goal:
 
 ---
 
-## 💻 Programming Languages
+## 💻 Programming & Scripting Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,javascript,html,css,powershell" />
 </p>
 
-| Language | Experience | Usage |
-|----------|-----------|-------|
-| 🐍 Python | ⭐⭐⭐⭐☆ | Automation, Scripting |
-| 🐚 Bash | ⭐⭐⭐⭐☆ | Linux & DevOps |
-| ☕ Java | ⭐⭐⭐☆☆ | Core Programming |
-| 🌐 JavaScript | ⭐⭐⭐☆☆ | Web Development |
-| 🎨 HTML5 | ⭐⭐⭐⭐☆ | Frontend |
-| 🎨 CSS3 | ⭐⭐⭐☆☆ | UI Styling |
-| 🔷 C | ⭐⭐⭐☆☆ | Programming Fundamentals |
-| ⚡ C++ | ⭐⭐⭐☆☆ | Data Structures & Algorithms |
+| Category | Languages / Technologies |
+|----------|---------------------------|
+| 🐍 Programming | Python, Java, C, C++ |
+| 🌐 Web | HTML5, CSS3, JavaScript |
+| 🐚 Scripting | Bash, PowerShell |
+| ⚙ CI/CD | Groovy (Jenkins Pipeline) |
+| 📄 Configuration | YAML, JSON |
+| ☁ Infrastructure as Code | HCL (Terraform) |
+| 🐳 Container | Dockerfile |
+| ☸ Kubernetes | YAML Manifests |
+| 🔄 GitOps | YAML (ArgoCD, Helm Values) |
+| 🗄 Database | SQL |
+
+
 
 # 📈 Activity Graph
 
