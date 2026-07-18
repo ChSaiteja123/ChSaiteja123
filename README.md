@@ -28,7 +28,24 @@ Role:           DevOps Engineer
 Education:      B.Tech (Mechanical Engineering)
 Country:        India
 Passion:        Cloud Infrastructure & Automation
+# 🚀 DevOps Portfolio
 
+A modern and animated DevOps portfolio website built with **React, Vite, Tailwind CSS, and Framer Motion**. It highlights Cloud, Kubernetes, CI/CD, DevSecOps, Infrastructure as Code, and Automation.
+
+## 🌐 Live Demo
+
+👉 **Portfolio:** https://your-portfolio-url.com
+
+---
+
+## ✨ Features
+
+- Responsive one-page portfolio
+- Modern cyberpunk-inspired UI
+- Animated sections with Framer Motion
+- Skills, Projects, Experience & Education
+- Contact form
+- Downloadable Resume
 Current Focus:
   🎯 AWS Cloud Architecture
   🎯 Kubernetes Administration
