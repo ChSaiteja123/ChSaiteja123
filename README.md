@@ -1,99 +1,548 @@
+<div align="center">
 
-# Hi 👋, I'm Sai Teja
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sai%20Teja&fontAlign=50&fontAlignY=40&fontSize=60&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20Cloud%20|%20Kubernetes%20|%20Automation&descAlignY=60"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Welcome+to+My+GitHub;☁+AWS+Cloud+Engineer;🐳+Docker+%7C+Kubernetes;⚙+Terraform+%7C+Ansible;🔄+CI%2FCD+Automation;🌟+Always+Learning+New+Technologies"/>
 
-## 🚀 DevOps Engineer | Cloud Enthusiast | Automation Engineer
+<p>
+<img src="https://komarev.com/ghpvc/?username=ChSaiteja123&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/ChSaiteja123?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/ChSaiteja123?style=for-the-badge"/>
+</p>
 
-Passionate DevOps Engineer with experience in CI/CD, Cloud Infrastructure, Containerization, Kubernetes, Infrastructure as Code, Monitoring, and DevSecOps.
-
----
-
-## 👨‍💻 About Me
-
-- 🌱 Learning Advanced Kubernetes & GitOps
-- ☁️ AWS Cloud Practitioner
-- 🔭 Working on DevOps Automation Projects
-- 💡 Interested in Cloud, SRE, DevSecOps & Platform Engineering
-- 📍 Andhra Pradesh, India
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+<details>
+<summary><b>👤 Click to expand my profile</b></summary>
 
-### DevOps Tools
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo)
+```yaml
+Name:           Sai Teja
+Role:           DevOps Engineer
+Education:      B.Tech (Mechanical Engineering)
+Country:        India
+Passion:        Cloud Infrastructure & Automation
 
-### IaC & Automation
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible)
+Current Focus:
+  🎯 AWS Cloud Architecture
+  🎯 Kubernetes Administration
+  🎯 Infrastructure as Code (Terraform)
+  🎯 CI/CD Automation
+  🎯 DevSecOps
+  🎯 GitOps Practices
 
-### Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+Career Goal:
+  🚀 Build secure, scalable and automated cloud infrastructure
+```
 
-
-##Cloud: 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-##Automation
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-
+</details>
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 DevOps Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ChSaiteja123&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,linux,bash,git,github,githubactions,vscode,python,mysql,prometheus,grafana"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiteja123&layout=compact&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ChSaiteja123&theme=onedark&row=1)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ChSaiteja123&label=Profile%20Views&color=0e75b6&style=flat)
-
-## 📂 Featured Projects
-
-### 🚀 End-to-End DevSecOps Pipeline
-- Jenkins CI/CD
-- SonarQube Quality Gates
-- Trivy Security Scanning
-- Docker Image Build
-- Kubernetes Deployment
-- ArgoCD GitOps Deployment
-
-### ☁️ AWS EKS Deployment
-- EKS Cluster Setup
-- Jenkins Integration
-- Kubernetes Workloads
-- Monitoring with Prometheus & Grafana
-
-### 🐳 Dockerized Django Application
-- Multi-stage Docker Build
-- Nginx Reverse Proxy
-- PostgreSQL Database
-- CI/CD Automation
+</p>
 
 ---
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true&theme=radical)
+
+# ☁ Architecture & Learning Flow
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗 DevOps Architecture
+
+```text
+    👨‍💻 Developer
+        │
+        ▼
+    🔀 GitHub Repo
+        │
+        ▼
+    ⚙  CI/CD Pipeline
+        │
+        ▼
+    📦 Docker Image
+        │
+        ▼
+    📚 Registry (ECR/Hub)
+        │
+        ▼
+    🏗️  Terraform Infra
+        │
+        ▼
+    ☸️  EKS Cluster
+        │
+        ▼
+    🔄 ArgoCD
+        │
+        ▼
+    🌍 Production
+```
+
+</td>
+<td width="50%">
+
+### 🚀 DevOps Journey
+
+```text
+    🐧 Linux
+        │
+        ▼
+    📝 Git/GitHub
+        │
+        ▼
+    🐳 Docker
+        │
+        ▼
+    ⚡ CI/CD
+        │
+        ▼
+    🏗️  Terraform
+        │
+        ▼
+    ☁️  AWS Cloud
+        │
+        ▼
+    ☸️  Kubernetes
+        │
+        ▼
+    🔄 ArgoCD
+        │
+        ▼
+    📊 Monitoring
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ Current Learning
+
+<div align="center">
+
+| Technology | Status | Progress |
+|:---:|:---:|:---:|
+| ☸ Kubernetes | 🔄 In Progress | ████████░░ 80% |
+| 🚀 GitOps | 🔄 In Progress | ███████░░░ 70% |
+| 🔥 DevSecOps | 📚 Learning | ██████░░░░ 60% |
+| 🌍 AWS | ✅ Advanced | ██████████ 90% |
+| ⚙ Terraform | ✅ Advanced | ██████████ 85% |
+| 📊 Monitoring | 🔄 In Progress | ███████░░░ 70% |
+| 🔐 Security | 📚 Learning | ██████░░░░ 60% |
+
+</div>
+
+---
+
+# 📈 GitHub Dashboard
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChSaiteja123&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Languages
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChSaiteja123&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChSaiteja123&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChSaiteja123&theme=radical&column=4"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChSaiteja123&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🛠️ Core Competencies
+
+<div align="center">
+
+| Category | Technologies | Proficiency |
+|:---:|:---|:---:|
+| ☁️ Cloud | AWS (EC2, S3, VPC, RDS, ECS, EKS) | ⭐⭐⭐⭐⭐ |
+| 🐳 Containers | Docker, Kubernetes, Docker Compose | ⭐⭐⭐⭐⭐ |
+| 🏗️ IaC | Terraform, CloudFormation | ⭐⭐⭐⭐⭐ |
+| ⚙️ Configuration | Ansible, Chef | ⭐⭐⭐⭐☆ |
+| 🚀 CI/CD | Jenkins, GitHub Actions, GitLab CI | ⭐⭐⭐⭐⭐ |
+| 📊 Monitoring | Prometheus, Grafana, ELK Stack | ⭐⭐⭐⭐☆ |
+| 🔥 Version Control | Git, GitHub, GitLab | ⭐⭐⭐⭐⭐ |
+| 🖥️ OS | Linux, Ubuntu, Amazon Linux, CentOS | ⭐⭐⭐⭐⭐ |
+| 🐍 Scripting | Bash, Python, PowerShell | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+<div align="center">
+
+[![AWS Infrastructure](https://img.shields.io/badge/AWS_Infrastructure-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/ChSaiteja123)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/ChSaiteja123)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/ChSaiteja123)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/ChSaiteja123)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://github.com/ChSaiteja123)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/ChSaiteja123)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://github.com/ChSaiteja123)
+
+</div>
+
 ---
 
 
-## 📫 Connect With Me
+<table>
+<tr>
 
-- GitHub: https://github.com/ChSaitej123
-- LinkedIn: https://www.linkedin.com/in/sai-teja-057213283
-- Email: chsaitej50@gmail.com
+<td width="50%">
 
+## ☁ AWS Infrastructure Automation
 
+🏗 Build complete AWS infrastructure using Terraform
+
+✨ Features
+
+- VPC
+- Public & Private Subnets
+- Internet Gateway
+- NAT Gateway
+- EC2
+- Security Groups
+- Auto Scaling
+- Load Balancer
+
+**Tech Stack**
+
+AWS • Terraform • Linux
+
+</td>
+
+<td width="50%">
+
+## 🐳 Dockerized Applications
+
+Containerized applications with production-ready Dockerfiles.
+
+✔ Multi-stage Docker Builds
+
+✔ Docker Compose
+
+✔ Persistent Volumes
+
+✔ Networking
+
+✔ Docker Hub
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ☸ Kubernetes Deployment
+
+Deploy scalable applications on Kubernetes.
+
+Features
+
+- Deployments
+- Services
+- Ingress
+- ConfigMaps
+- Secrets
+- HPA
+- Rolling Updates
+
+</td>
+
+<td width="50%">
+
+## ⚙ CI/CD Pipeline
+
+Automated CI/CD pipeline.
+
+GitHub → Jenkins → Docker → Kubernetes
+
+✔ Automatic Testing
+
+✔ Image Build
+
+✔ Push to Registry
+
+✔ Deploy
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🌍 GitOps with ArgoCD
+
+Continuous Delivery using GitOps.
+
+✔ Auto Sync
+
+✔ Rollbacks
+
+✔ Self Healing
+
+✔ Declarative Deployment
+
+</td>
+
+<td width="50%">
+
+## 📊 Monitoring Stack
+
+Production Monitoring
+
+Prometheus
+
+Grafana
+
+Alert Manager
+
+Node Exporter
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 My DevOps Expertise Map
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│           DevOps Expertise Levels            │
+├──────────────────────┬──────────────────────┤
+│ ★★★★★ Expert        │ AWS, Docker, K8s     │
+│ ★★★★☆ Advanced      │ Terraform, CI/CD     │
+│ ★★★☆☆ Intermediate  │ Monitoring, GitOps   │
+│ ★★☆☆☆ Learning      │ DevSecOps, Helm      │
+└──────────────────────┴──────────────────────┘
+```
+
+</div>
+
+# 💻 Technical Skills
+
+| Skill | Technology | Level |
+|:---:|:---:|:---:|
+| ☁️ Cloud | AWS | ⭐⭐⭐⭐⭐ |
+| 🐳 Containers | Docker, Docker Compose, Kubernetes | ⭐⭐⭐⭐⭐ |
+| 🏗️ IaC | Terraform, Ansible | ⭐⭐⭐⭐⭐ |
+| 🚀 CI/CD | Jenkins, GitHub Actions | ⭐⭐⭐⭐⭐ |
+| 🖥️ OS | Linux, Ubuntu, Amazon Linux | ⭐⭐⭐⭐⭐ |
+| 📊 Monitoring | Prometheus, Grafana | ⭐⭐⭐⭐☆ |
+| 🔥 Version Control | Git, GitHub | ⭐⭐⭐⭐⭐ |
+| 🐍 Scripting | Bash, Python | ⭐⭐⭐⭐☆ |
+
+---
+
+# 🎖️ Why Choose Me?
+
+<div align="center">
+
+| 🎯 Vision | ⚡ Execution | 🚀 Results |
+|:---:|:---:|:---:|
+| Clear infrastructure goals | Rapid problem-solving | Scalable systems |
+| Cloud-native approach | Automation-first mindset | Reliability focused |
+| Security & compliance | DevOps best practices | Continuous improvement |
+
+</div>
+
+# 💡 Quick Links & Resources
+
+<details>
+<summary><b>📖 Useful Resources</b></summary>
+
+- [AWS Documentation](https://docs.aws.amazon.com/)
+- [Kubernetes Docs](https://kubernetes.io/docs/)
+- [Terraform Registry](https://registry.terraform.io/)
+- [Docker Hub](https://hub.docker.com/)
+- [Prometheus Docs](https://prometheus.io/docs/)
+
+</details>
+
+<details>
+<summary><b>🎓 Certifications & Learning Paths</b></summary>
+
+- 🎯 AWS Solutions Architect Associate
+- 🎯 Kubernetes Administrator (CKA)
+- 🎯 HashiCorp Certified: Terraform Associate
+- 🎯 Linux System Administrator
+
+</details>
+
+---
+
+# 🔥 Statistics & Highlights
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ChSaiteja123&style=flat-square&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/ChSaiteja123?style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/ChSaiteja123?style=flat-square)
+
+</div>
+
+---
+
+# 📚 Learning Roadmap
+
+<div align="center">
+
+| Phase | Status | Topics |
+|:---:|:---:|:---:|
+| ✅ Completed | Mastered | Linux • Git • Docker • Jenkins • Terraform • AWS • Kubernetes |
+| 🔄 In Progress | Active | Helm • ArgoCD • Prometheus • Grafana |
+| 📚 Next | Planning | DevSecOps • Advanced K8s • Cloud Native |
+
+</div>
+
+---
+
+# 🌟 What I Bring
+
+<table>
+<tr>
+<td>✅ Infrastructure as Code</td>
+<td>✅ CI/CD Pipelines</td>
+</tr>
+<tr>
+<td>✅ Cloud Architecture</td>
+<td>✅ Container Orchestration</td>
+</tr>
+<tr>
+<td>✅ Linux Administration</td>
+<td>✅ DevOps Best Practices</td>
+</tr>
+<tr>
+<td>✅ Automation Focus</td>
+<td>✅ Continuous Learning</td>
+</tr>
+</table>
+
+---
+
+# 🤝 Let's Collaborate!
+
+<div align="center">
+
+**I'm open to:**
+
+- 🚀 DevOps consulting & projects
+- ☁ Cloud architecture design  
+- 🐳 Container & K8s solutions
+- ⚙ Infrastructure automation
+- 📈 CI/CD pipeline optimization
+- 🔐 DevSecOps implementations
+
+**Let's build something amazing together!**
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/ChSaiteja123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/sai-teja">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:saiteja@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://twitter.com">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 "Automate Everything • Deploy Anywhere • Monitor Continuously"
+
+<br>
+
+### 🚀 Ready to Build Cloud Solutions Together!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
+
+<p>
+<em>Made with ❤️ by Sai Teja | Last Updated: 2026</em>
+</p>
+
+</div>
