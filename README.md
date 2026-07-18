@@ -1,3 +1,20 @@
+<picture>
+  <!-- Dark Mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- Light Mode -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true&theme=default&hide_border=true" />
+
+  <!-- Fallback -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ChSaiteja123&show_icons=true"
+    alt="GitHub Stats" />
+</picture>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sai%20Teja&fontAlign=50&fontAlignY=40&fontSize=60&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20Cloud%20|%20Kubernetes%20|%20Automation&descAlignY=60"/>
@@ -13,9 +30,7 @@
 </div>
 
 ---
-<img src="banner-dark.svg#gh-dark-mode-only" width="100%">
 
-<img src="banner-light.svg#gh-light-mode-only" width="100%">
 
 # 💫 About Me
 
