@@ -32,12 +32,6 @@ Passion:        Cloud Infrastructure & Automation
 
 ## ✨ Features
 
-- Responsive one-page portfolio
-- Modern cyberpunk-inspired UI
-- Animated sections with Framer Motion
-- Skills, Projects, Experience & Education
-- Contact form
-- Downloadable Resume
 Current Focus:
   🎯 AWS Cloud Architecture
   🎯 Kubernetes Administration
