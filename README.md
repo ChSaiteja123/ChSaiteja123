@@ -160,13 +160,13 @@ Career Goal:
 ## 💻 Programming & Scripting Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,javascript,html,css,powershell" />
+  <img src="https://skillicons.dev/icons?i=python,bash,Groovy,YAML,Dockerfile,HCL,java,javascript,html,css,powershell" />
 </p>
 
 | Category | Languages / Technologies |
 |----------|---------------------------|
-| 🐍 Programming | Python, Java, C, C++ |
-| 🌐 Web | HTML5, CSS3, JavaScript |
+| 🐍 Programming | Python |
+| 🌐 Web | HTML5, CSS3 |
 | 🐚 Scripting | Bash, PowerShell |
 | ⚙ CI/CD | Groovy (Jenkins Pipeline) |
 | 📄 Configuration | YAML, JSON |
