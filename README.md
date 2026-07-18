@@ -13,6 +13,9 @@
 </div>
 
 ---
+<img src="banner-dark.svg#gh-dark-mode-only" width="100%">
+
+<img src="banner-light.svg#gh-light-mode-only" width="100%">
 
 # 💫 About Me
 
